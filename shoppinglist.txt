@@ -7,5 +7,4 @@ carrots
 Cereal
 Cucumbers
 ceries
-walnuts
 English walnuts
